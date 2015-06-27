@@ -4,7 +4,7 @@
 <head>
   <base href="/">
   <meta charset="utf-8">
-  <title>Untitled Document</title>
+  <title>Welcome!</title>
   <meta http-equiv="" content="">
   <meta name="description" content="">
   <meta name="keywords" content="">
